@@ -1,3 +1,0 @@
-# BotDiscord
-# BotDicord
-# BotDicord
